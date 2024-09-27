@@ -1,5 +1,12 @@
 <h1 align="center">Challenge Backend Laravel</h1>
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0bd70f97-4163-4b05-9e16-8569c32582f6" alt="Dot Image"/>
+</p>
+
+
+
 ## Author
 
 Dikembangkan oleh :
